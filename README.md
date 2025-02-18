@@ -1,5 +1,10 @@
 # prediction-plot
-C (pgplot) code to plot predicted versus measured values (generated from Tensorflow)
+
+Code to performa machine learning (k-nearest enighbours regression) and plot the predicted versus measured values. This is all contained within kNN.py and supersedes the all of the C code above.
+
+![](https://raw.githubusercontent.com/steviecurran/prediction-plot/refs/heads/main/DESI_trun.csv_df_GRZW1W2_kNN.png)
+
+## Previous C version
 
 Useful for large datasets, as produces a grey scale and error bars of equally binned data instead of individal points. 
 
