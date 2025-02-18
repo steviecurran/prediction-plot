@@ -1,6 +1,6 @@
 # prediction-plot
 
-Code to performa machine learning (k-nearest enighbours regression) and plot the predicted versus measured values. This is all contained within kNN.py and supersedes the all of the C code above.
+Code to performs machine learning (k-nearest neighbours regression) and plot the predicted versus measured values. This is all contained within kNN.py and supersedes the all of the C code above.
 
 ![](https://raw.githubusercontent.com/steviecurran/prediction-plot/refs/heads/main/DESI_trun.csv_df_GRZW1W2_kNN.png)
 
